@@ -1,4 +1,4 @@
-# FoodHub Recommendations Order Analysis (Delivery App Simulation)
+# FoodHub Order Analysis (Delivery App Simulation)
 
 Exploratory data analysis of a New York food delivery aggregator to uncover order patterns, delivery performance, and customer rating behavior; with actionable business recommendations.
 
