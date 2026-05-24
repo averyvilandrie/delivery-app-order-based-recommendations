@@ -28,7 +28,7 @@ FoodHub is a food aggregator app that connects customers with restaurants across
 ## Recommendations
 
 - Incentivize customers to leave ratings to improve feedback data quality
-- Investigate weekday delivery delays — likely driven by traffic and higher order volume
+- Investigate weekdend delivery delays - likely driven by traffic and higher order volume
 - Prioritize partnerships with high-demand, high-rated cuisine types
 - Focus marketing on the long tail of underperforming restaurants or consolidate toward proven performers
 
